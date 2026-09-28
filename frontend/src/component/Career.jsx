@@ -34,6 +34,10 @@ const Career = () => {
         // { name: "Experience Letter", url: "#", type: "pdf" }
       ]
     },
+
+
+
+    
     "25000005": {
       id: "25000005",
       name: "Krishna Suthers Raj T G B",
