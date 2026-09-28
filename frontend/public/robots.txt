@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: 
+Disallow:
 
-Sitemap: https://letnexttechnologies.com/sitemap.xml
+Sitemap: https://letnexttechnologies.co.in/sitemap.xml

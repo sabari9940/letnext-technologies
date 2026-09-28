@@ -1,7 +1,53 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!--  created with Free Online Sitemap Generator www.xml-sitemaps.com  -->
-<url>
-<loc>https://letnexttechnologies.com/</loc>
-<lastmod>2026-03-24T05:22:29+00:00</lastmod>
-</url>
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <url>
+        <loc>https://letnexttechnologies.co.in/</loc>
+    </url>
+
+    <url>
+        <loc>https://letnexttechnologies.co.in/service</loc>
+    </url>
+
+    <url>
+        <loc>https://letnexttechnologies.co.in/product</loc>
+    </url>
+
+    <url>
+        <loc>https://letnexttechnologies.co.in/about</loc>
+    </url>
+
+    <url>
+        <loc>https://letnexttechnologies.co.in/contact</loc>
+    </url>
+
+    <url>
+        <loc>https://letnexttechnologies.co.in/blogs</loc>
+    </url>
+
+    <url>
+        <loc>https://letnexttechnologies.co.in/howweworktestimonial</loc>
+    </url>
+
+    <url>
+        <loc>https://letnexttechnologies.co.in/career</loc>
+    </url>
+
+    <url>
+        <loc>https://letnexttechnologies.co.in/digital</loc>
+    </url>
+
+    <url>
+        <loc>https://letnexttechnologies.co.in/web</loc>
+    </url>
+
+    <url>
+        <loc>https://letnexttechnologies.co.in/technical</loc>
+    </url>
+
+    <url>
+        <loc>https://letnexttechnologies.co.in/iothub</loc>
+    </url>
+
 </urlset>
